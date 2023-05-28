@@ -1,0 +1,3 @@
+ // model // n number of files you can add  schema 
+// controller // number of files you can also crete here req res our all logic apply here userController.js
+// routes // / /getuser
